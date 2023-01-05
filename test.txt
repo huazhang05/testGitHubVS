@@ -1,1 +1,2 @@
 This is a text file which is updated and need to merge
+ version 2
