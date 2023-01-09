@@ -10,3 +10,6 @@ this file is chaged to testing GItHub from office computer one
 
 ## testing GItHub from office computer twice
 this file is chaged to testing GItHub from office computer two
+
+## testing member3
+pull request
